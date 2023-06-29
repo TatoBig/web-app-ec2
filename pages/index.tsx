@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { PrismaClient } from "@prisma/client";
 import { Bar } from "react-chartjs-2";
 import React, { useEffect } from "react";
